@@ -44,7 +44,7 @@ Realizamos **252 entrevistas** via formulário e **20 entrevistas presenciais**,
 - Comunidades e Informativos.
 - E muito mais...
 
-// Colocar o vídeo mostrando o aplicativo rodando. 
+➡️ LInk do vídeo do protótipo em funcionamento: https://youtube.com/shorts/5N8aaVSrkNM
 
 # 🖥️ Repaginação do E-Gestor
 // Não sei o que colocar aqui.
@@ -52,6 +52,8 @@ Realizamos **252 entrevistas** via formulário e **20 entrevistas presenciais**,
 ## Principais Funcionalidades
 
 // Não sei o que colocar aqui
+
+➡️ LInk do vídeo do protótipo em funcionamento: https://youtu.be/KjAlRuIeFM4
 
 ## 🌟 Inovações 
 ### SAD - Sistema de Apoio a Decisão
@@ -78,29 +80,31 @@ Recebemos retorno de **65 pessoas das 252 entrevistadas**, com resultados expres
 - **98% elogiaram a interface** e reforçaram que a **integração com o PEC é essencial*.*
 
 ## 🛠️ Ferramentas Utilizadas
-// Colocar as ferramentas utilizadas
+- Figma (Para prototipação e aplicação mobile)
+- Aplicação WEB (Java Script, HTML e CSS)
+- Metodologia (Double Diamond, Kanban - Trello)
 
 # 📲 Teste Nossa Solução
 https://qr-code.click/i/681bd52d3ee29
 
 # 👥 Equipe
 **Jorge Guilherme** - Graduando em Sistemas de Informação - CIn/UFPE
+
 **Vinicius França** -  Graduando em Sistemas de Informação - CCIn/UFPE
+
 **Silas Manoel** - Graduando em Sistemas de Informação - CIn/UFPE
+
 **Hugo Coelho** -  Graduando em Sistemas de Inteligência Artificial - CIn/UFPE
+
 **Kleberson Araújo** - Graduando em Ciência da Computação  - CIn/UFPE
 
 # 🧑‍🏫 Orirentadores
 ### Sérgio Cavalcante
 - HEAD DE TECNOLOGIA E INOVAÇão - Grupo Cornélio Brennand
-
--Professor assistente - cin
-
+- Professor assistente - CIn/UFPE
 - Ex-Ceo - cesar
 
 ### Dra. Aline Maranhão
 - OBSTETRA - Hospital das Clínicas de Pernambuco
-
 - RESPONSÁVEL PELO PROJETO HIPERDIA - NASS da UFPE
-- 
 - Mestra em Ciência da Saúde -  UFPE
